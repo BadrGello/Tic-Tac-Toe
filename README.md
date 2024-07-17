@@ -1,4 +1,4 @@
-Tic Tac Toe conolse-based
-All of the basics are implemented
-What's left in future updates?
-  -Medium and Hard computer difficulty
+Tic Tac Toe conolse-based\n
+All of the basics are implemented\n
+What's left in future updates?\n
+\t-Medium and Hard computer difficulty
